@@ -33,7 +33,7 @@ ayocek(){
 	if [[ $cek = "000" ]]; then
 		printf "http://$1.$2 TIDAK ADA\n"
 	else
-		printf "http://$1.$2 MENEMUKAN\n"
+		printf "http://$1.$2/ => MENEMUKAN\n"
 		echo "http://$1.$2/ => MENEMUKAN"
 	fi
 }
