@@ -6,7 +6,7 @@ How To Install & Use :
 </br>$ cd NakoSubdoCheck
 </br>$ bash go.sh
 
-====================================
+====================================</br>
 Input wordlist subdomain ekstensi txt
 Input Your Url Tanpa http/https
 </br>
