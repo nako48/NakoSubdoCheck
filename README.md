@@ -8,6 +8,6 @@ How To Install & Use :
 
 ====================================</br>
 Input wordlist subdomain ekstensi txt
-Input Your Url Tanpa http/https
+</br>Input Your Url Tanpa http/https
 </br>
 Thank's For Allah Swt - Tatsumi-Crew -Nako Yabuki - NakoCoders - Monkey B Luffy - Maxteroit - HKT48
