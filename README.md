@@ -10,4 +10,4 @@ How To Install & Use :
 Input wordlist subdomain ekstensi txt
 Input Your Url Tanpa http/https
 </br>
-Thank's For Allah Swt Tatsumi-Crew - NakoCoders - Monkey B Luffi - Maxteroit
+Thank's For Allah Swt - Tatsumi-Crew - NakoCoders - Monkey B Luffi - Maxteroit
