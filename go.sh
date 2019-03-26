@@ -34,7 +34,7 @@ ayocek(){
 		printf "http://$1.$2 TIDAK ADA\n"
 	else
 		printf "http://$1.$2/ => MENEMUKAN\n"
-		echo "http://$1.$2/ => MENEMUKAN">>list.txt
+		echo "http://$1.$2/ => MENEMUKAN">>menemukan.txt
 	fi
 }
 echo ""
